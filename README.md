@@ -32,3 +32,7 @@ I specialize in building scalable web and mobile applications using modern techn
 ## 📫 Contact
 - GitHub: https://github.com/majidgeeks
 -LinkedIn : www.linkedin.com/in/majid-hussain-3797a0271
+
+## 📊 GitHub Stats
+
+![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidgeeks&show_icons=true&theme=tokyonight)

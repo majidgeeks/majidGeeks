@@ -1,3 +1,5 @@
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B+I'm+Majid+Hussain+%7C+Full-Stack+Developer)
+
 # Hi 👋 I'm Majid Hussain
 
 🚀 Full Stack MERN & React Native Developer
@@ -54,7 +56,7 @@ I specialize in building scalable web and mobile applications using modern techn
 
 ## 👀 Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/majidgeeks/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/majidGeeks/count.svg)
 
 ## 📫 Contact Me
 

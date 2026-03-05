@@ -1,4 +1,4 @@
-![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00CED1&center=true&vCenter=true&width=700&height=70&lines=Hi+I'm+Majid+Hussain+%7C+Full-Stack+Developer)
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00CED1&center=true&vCenter=true&width=700&height=70&lines=I'm+Majid+Hussain+%7C+Full-Stack+Developer)
 
 # Hi 👋 I'm Majid Hussain
 

@@ -52,6 +52,10 @@ I specialize in building scalable web and mobile applications using modern techn
 
 ---
 
+## 👀 Profile Views
+
+![Visitor Count](https://profile-counter.glitch.me/majidgeeks/count.svg)
+
 ## 📫 Contact Me
 
 - GitHub: [majidgeeks](https://github.com/majidgeeks)]

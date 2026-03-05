@@ -36,3 +36,7 @@ I specialize in building scalable web and mobile applications using modern techn
 ## 📊 GitHub Stats
 
 ![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidgeeks&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidgeeks&layout=compact&theme=tokyonight)
